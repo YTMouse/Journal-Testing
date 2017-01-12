@@ -1,3 +1,3 @@
 # Journal-Testing
-Nothing important
+Nothing important.
 Just trying a log for now....
